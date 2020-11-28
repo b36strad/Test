@@ -1,4 +1,4 @@
-var testing = "testing!!!! I\'m here"
+var testing = "testing I\'m here"
 
 console.log(testing)
 
